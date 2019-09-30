@@ -1,0 +1,22 @@
+{
+	"name": "gridsome-plugin-elasticsearch",
+	"version": "1",
+	"description": "A gridsome plugin to index objects to ElasticSearch",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dominiquedutra/gridsome-plugin-elasticsearch.git"
+	},
+	"keywords": [
+		"gridsome",
+		"plugin",
+		"algolia",
+		"gridsome-plugin"
+	],
+	"author": "Dominique Dutra",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dominiquedutra/gridsome-plugin-elasticsearch.git/issues"
+	},
+	"homepage": "https://github.com/dominiquedutra/gridsome-plugin-elasticsearch.git#readme"
+}
