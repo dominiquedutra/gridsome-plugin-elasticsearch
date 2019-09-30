@@ -1,6 +1,6 @@
 {
 	"name": "gridsome-plugin-elasticsearch",
-	"version": "1",
+	"version": "1.0.0",
 	"description": "A gridsome plugin to index objects to ElasticSearch",
 	"main": "index.js",
 	"repository": {
